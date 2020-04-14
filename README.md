@@ -1,2 +1,2 @@
 # Programacion-2
-<h1>Proyecto-Windows Form</h1>
+<h2>Proyecto-Windows Form</h2>
